@@ -5,17 +5,26 @@
 A complete, structured roadmap to become a **Full Stack Python Developer** with strong foundations in **AI/ML, DSA, and DevOps**.
 
 🔗 **Live**: https://sudip-pkrl.github.io/roadmap/
+
 🔗 **Original**: https://roadmap.sh/r/full-stack-python-developer-with-aiml
 
 ---
 
 ## 📷 Roadmap Preview
 
-![Preview 1](assets/R1.png)
-![Preview 2](assets/R2.png)
-![Preview 3](assets/R3.png)
-![Preview 4](assets/R4.png)
-![Preview 5](assets/R5.jpeg)
+<p align="center">
+  <img src="assets/R1.png" width="45%" />
+  <img src="assets/R2.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="assets/R3.png" width="45%" />
+  <img src="assets/R4.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="assets/R5.jpeg" width="80%" />
+</p>
 
 ---
 
