@@ -176,6 +176,7 @@ This roadmap is designed to take you from **beginner → industry-ready develope
 | Frontend | TypeScript | Optional | After job | Large-scale apps safety |
 | Frontend | Advanced UI/animations | Skip | For now | Not needed for jobs |
 |          |       |       |     |               |
+|          |       |       |     |               |
 | Backend | Python | Learn | Now | Core language |
 | Backend | FastAPI | Learn | Now | Modern backend framework |
 | Backend | Django | Optional | After job | Enterprise-level projects |
@@ -183,15 +184,18 @@ This roadmap is designed to take you from **beginner → industry-ready develope
 | Backend | Node.js | Skip | Forever | Not needed in Python path |
 | Backend | Express.js | Skip | Forever | Not required |
 |          |       |       |     |               |
+|          |       |       |     |               |
 | APIs | REST APIs | Learn | Now | Core backend skill |
 | APIs | JWT Authentication | Learn | Now | Security basics |
 | APIs | OAuth | Optional | After job | Advanced authentication |
 | APIs | Microservices | Skip | For now | Advanced system design |
 |          |       |       |     |               |
+|          |       |       |     |               |
 | Database | PostgreSQL | Learn | Now | Main production database |
 | Database | ORM (SQLAlchemy / FastAPI ORM tools) | Learn | Now | Easier DB handling |
 | Database | MongoDB | Optional | After job | Flexible schema use cases |
 | Database | Multiple databases | Skip | For now | Not necessary |
+|          |       |       |     |               |
 |          |       |       |     |               |
 | AI/ML | NumPy | Learn | Now | Math operations |
 | AI/ML | Pandas | Learn | Now | Data handling |
@@ -200,11 +204,13 @@ This roadmap is designed to take you from **beginner → industry-ready develope
 | AI/ML | PyTorch | Optional | After job | Deep learning |
 | AI/ML | Research papers / model building from scratch | Skip | Forever | Not needed for jobs |
 |          |       |       |     |               |
+|          |       |       |     |               |
 | Math | Linear Algebra | Learn | Now | ML foundation |
 | Math | Statistics | Learn | Now | Data understanding |
 | Math | Probability | Learn | Now | ML reasoning |
 | Math | Calculus (deep) | Skip | Forever | Not needed |
 | Math | Advanced proofs | Skip | Forever | Not practical |
+|          |       |       |     |               |
 |          |       |       |     |               |
 | DSA | Arrays, Strings | Learn | Now | Interview basics |
 | DSA | Hashmaps | Learn | Now | Core problem solving |
@@ -212,13 +218,15 @@ This roadmap is designed to take you from **beginner → industry-ready develope
 | DSA | Trees, Graphs | Optional | After job | Advanced interviews |
 | DSA | Competitive programming | Skip | Forever | Not required |
 |          |       |       |     |               |
+|          |       |       |     |               |
 | DevOps | Git | Learn | Now | Essential skill |
 | DevOps | GitHub | Learn | Now | Collaboration |
 | DevOps | Docker | Learn | Now | Deployment basics |
 | DevOps | GitHub Actions | Optional | After job | Automation |
 | DevOps | Kubernetes | Skip | For now | Advanced DevOps |
 | DevOps | Jenkins | Skip | For now | Not needed |
-
+|          |       |       |     |               |
+|          |       |       |     |               |
 | Deployment | Vercel / Render / Railway | Learn | Now | Deploy full-stack apps |
 | Deployment | GitHub Pages | Learn | Now | Frontend hosting |
 | Deployment | AWS / Cloud basics | Optional | After job | Scaling apps |
